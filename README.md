@@ -80,8 +80,8 @@ Before starting, ensure you have the following installed on your machine:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Riaa-stack/AI-Travel-Planner-Agentic-Travel-Concierge-Platform.git
-cd AI-Travel-Planner-Agentic-Travel-Concierge-Platform
+git clone https://github.com/codyypankaj/ai-travel-concierge.git
+cd ai-travel-concierge
 ```
 
 ---
@@ -267,4 +267,5 @@ flask db upgrade    # Applies all pending migrations to the database
 ---
 
 ## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
+
+No license specified.
